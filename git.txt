@@ -20,4 +20,4 @@
 
 6. git pull
    - 원격 저장소의 변경사항을 로컬로 가져온다.
-   - 예시: git pull origin main
+   - 예시: git pull origin mai
