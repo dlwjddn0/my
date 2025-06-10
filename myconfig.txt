@@ -1,0 +1,17 @@
+# myconfig.txt
+# 자주 사용하는 VS Code 확장 기능 목록
+
+1. Python - ms-python.python  
+   → Python 코드 실행 및 디버깅, Linting, 자동완성 등 제공
+
+2. C/C++ - ms-vscode.cpptools  
+   → C, C++ 코드 IntelliSense, 디버깅, 코드 분석 지원
+
+3. Prettier - esbenp.prettier-vscode  
+   → 코드 포맷터로 JavaScript, HTML, CSS 등의 정렬 자동화
+
+4. Live Server - ritwickdey.LiveServer  
+   → HTML 파일을 실시간으로 브라우저에 반영하며 테스트 가능
+
+5. GitLens - eamodio.gitlens  
+   → Git 히스토리 시각화 및 코드 변경 내역 추적 기능 제공
