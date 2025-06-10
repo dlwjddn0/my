@@ -1,0 +1,17 @@
+# myconfig.txt
+# VS Code에서 자주 사용하는 확장 기능 목록 (3개 이상)
+
+① Python (ms-python.python)  
+→ Python 개발을 위한 기본 확장. Linting, IntelliSense, 실행 지원
+
+② Code Runner (formulahendry.code-runner)  
+→ 여러 언어의 코드 실행을 단축키로 빠르게 할 수 있게 도와줌
+
+③ Bracket Pair Colorizer 2 (CoenraadS.bracket-pair-colorizer-2)  
+→ 중괄호나 소괄호 쌍을 색으로 구분해 가독성 향상
+
+④ Material Icon Theme (PKief.material-icon-theme)  
+→ 프로젝트의 파일 아이콘을 직관적이고 예쁜 테마로 변경
+
+⑤ Korean Language Pack for VS Code (MS-ceintl.vscode-language-pack-ko)  
+→ VS Code를 한국어로 사용하고 싶을 때 유용한 확장
