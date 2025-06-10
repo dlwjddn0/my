@@ -15,3 +15,4 @@
 
 5. GitLens - eamodio.gitlens  
    → Git 히스토리 시각화 및 코드 변경 내역 추적 기능 제공
+   
