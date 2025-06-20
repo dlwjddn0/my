@@ -31,3 +31,24 @@
 ⑩ Path Intellisense (christian-kohler.path-intellisense)
 → 파일 경로 자동 완성 지원, import나 이미지 경로 작성 시 유용함
 
+⑪ TODO Highlight (wayou.vscode-todo-highlight)
+→ 코드에 TODO, FIXME 같은 주석을 하이라이트해줘서 할 일 관리에 유용함
+
+⑫ Error Lens (usernamehw.errorlens)
+→ 코드 오류와 경고를 라인 안에 바로 표시해서 빠르게 문제 파악 가능
+
+⑬ GitHub Copilot (GitHub.copilot)
+→ 인공지능이 코드 자동 완성 도와줌 (GitHub 계정 필요, 유료 플랜일 수도 있음)
+
+⑭ Markdown All in One (yzhang.markdown-all-in-one)
+→ 마크다운 문서 작성 시 실시간 미리보기, 자동 목록 정렬, 단축키 등 지원
+
+⑮ REST Client (humao.rest-client)
+→ Postman 없이도 VS Code에서 직접 HTTP 요청(GET, POST 등)을 테스트할 수 있음
+
+⑯ Tabnine (TabNine.tabnine-vscode)
+→ AI 기반 코드 자동 완성 기능. Copilot보다 가볍고 빠른 편
+
+⑰ Import Cost (wix.vscode-import-cost)
+→ JS/TS 코드에서 import한 패키지들의 크기를 실시간으로 보여줌
+
