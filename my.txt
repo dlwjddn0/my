@@ -49,6 +49,4 @@
 ⑯ Tabnine (TabNine.tabnine-vscode)
 → AI 기반 코드 자동 완성 기능. Copilot보다 가볍고 빠른 편
 
-⑰ Import Cost (wix.vscode-import-cost)
-→ JS/TS 코드에서 import한 패키지들의 크기를 실시간으로 보여줌
 
