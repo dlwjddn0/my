@@ -1,5 +1,21 @@
-____ ____  _____    _    ____  __  __ _____ _____ ___  ____  
- / ___|  _ \| ____|  / \  |  _ \|  \/  | ____| ____/ _ \|  _ \ 
-| |   | | | |  _|   / _ \ | |_) | |\/| |  _| |  _|| | | | |_) |
-| |___| |_| | |___ / ___ \|  __/| |  | | |___| |__| |_| |  __/ 
- \____|____/|_____/_/   \_\_|   |_|  |_|_____|_____\___/|_|    
+
+/* ========================================================
+     Commit Routine for Clean Codebase
+   --------------------------------------------------------
+   A reminder to log your progress and maintain clarity.
+   Every meaningful commit counts. Write code, document it,
+   and push with purpose.
+   ======================================================== */
+
+# Step 1: Stage changes
+$ git add .
+
+# Step 2: Write a clear commit message
+$ git commit -m "docs: 정리된 커밋 메시지를 작성합니다"
+
+# Step 3: Push to remote repository
+$ git push
+
+// Tip: 작은 커밋도 코드 역사의 중요한 조각입니다.
+// 커밋 메시지는 미래의 나에게 보내는 편지입니다.
+
